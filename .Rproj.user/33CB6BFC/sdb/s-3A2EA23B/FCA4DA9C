@@ -1,0 +1,17 @@
+{
+    "contents" : "library(XML)\nlibrary(dplyr)\nlibrary(readr)\n\nfilenames <- Sys.glob(\"*.xml\")\ndata <- lapply(filenames, xmlToDataFrame, stringsAsFactors = FALSE)\ndata <- rbind_all(data)\n\nwrite_csv(data, \"libraries_davies.csv\")\n",
+    "created" : 1439233425153.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3542185399",
+    "id" : "FCA4DA9C",
+    "lastKnownWriteTime" : 1439233997,
+    "path" : "~/Desktop/Libraries Davies Project/loaddata.R",
+    "project_path" : "loaddata.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<libraryList>
+<library><plus>2470</plus><mcmullen>3788</mcmullen><state>NV</state><locality>Carlin</locality><name>Library Assoc.</name><type>Socl</type><fd>1874</fd><em></em><ml>1884</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7823</plus><mcmullen>3790</mcmullen><state>NV</state><locality>Carson City</locality><name>State Library</name><type>State</type><fd>1863</fd><em></em><ml>1884</ml><ce></ce><de>1875</de><sz>9600</sz><ld>1875</ld><vs>9600</vs></library>
+<library><plus>6814</plus><mcmullen>3791</mcmullen><state>NV</state><locality>Carson City</locality><name>State Prison</name><type>Prison</type><fd>1872</fd><em></em><ml>1884</ml><ce></ce><de>1875</de><sz>300</sz><ld>1875</ld><vs>300</vs></library>
+<library><plus>4209</plus><mcmullen>3789</mcmullen><state>NV</state><locality>Carson City</locality><name>Masonic Library</name><type>Frat</type><fd>1875</fd><em></em><ml>1884</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>3233</plus><mcmullen>3792</mcmullen><state>NV</state><locality>Gold Hill</locality><name>Miners Union Library</name><type>Mech</type><fd>1866</fd><em></em><ml>1884</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>3234</plus><mcmullen>3795</mcmullen><state>NV</state><locality>Virginia City</locality><name>Miners Union Lib</name><type>Mech</type><fd>1875</fd><em></em><ml>1884</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>4210</plus><mcmullen>3793</mcmullen><state>NV</state><locality>Virginia City</locality><name>I.O.O.F. Library Association</name><type>Frat</type><fd>1865</fd><em></em><ml>1875</ml><ce></ce><de>1875</de><sz>3300</sz><ld>1875</ld><vs>3300</vs></library>
+<library><plus>4211</plus><mcmullen>3794</mcmullen><state>NV</state><locality>Virginia City</locality><name>Masonic Library of Story County</name><type>Frat</type><fd>1866</fd><em></em><ml>1875</ml><ce></ce><de>1875</de><sz>2100</sz><ld>1875</ld><vs>2100</vs></library>
+</libraryList>

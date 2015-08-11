@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<libraryList>
+<library><plus>7716</plus><mcmullen>12005</mcmullen><state>AZ</state><locality></locality><name>Camp Apache and Fort Apache</name><type>Garr</type><fd></fd><em></em><ml></ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7082</plus><mcmullen>12024</mcmullen><state>AZ</state><locality>Arivaca</locality><name>Cerro Colorado Mines</name><type>Mill</type><fd>1862</fd><em></em><ml>1862</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7708</plus><mcmullen>31</mcmullen><state>AZ</state><locality>Camp McDowell</locality><name>Camp McDowell Post Library</name><type>Garr</type><fd>1867</fd><em></em><ml>1875</ml><ce></ce><de>1875</de><sz>300</sz><ld>1875</ld><vs>300</vs></library>
+<library><plus>7712</plus><mcmullen>12009</mcmullen><state>AZ</state><locality>Ft Grant</locality><name>Fort Grant</name><type>Garr</type><fd></fd><em></em><ml></ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7715</plus><mcmullen>12006</mcmullen><state>AZ</state><locality>Ft. Bowie</locality><name>Fort Bowie</name><type>Garr</type><fd></fd><em>1875</em><ml>1875</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7711</plus><mcmullen>12007</mcmullen><state>AZ</state><locality>Ft. Buchanan</locality><name>Fort Buchanan</name><type>Garr</type><fd></fd><em>1861</em><ml>1861</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7710</plus><mcmullen>128</mcmullen><state>AZ</state><locality>Ft. Crittenden</locality><name>Fort Crittenden</name><type>Garr</type><fd></fd><em></em><ml></ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7714</plus><mcmullen>12010</mcmullen><state>AZ</state><locality>Ft. Lowell</locality><name>Fort Lowell</name><type>Garr</type><fd></fd><em></em><ml></ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7713</plus><mcmullen>12011</mcmullen><state>AZ</state><locality>Ft. Mojave</locality><name>Fort Mojave</name><type>Garr</type><fd></fd><em>1861</em><ml>1861</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7709</plus><mcmullen>32</mcmullen><state>AZ</state><locality>Ft. Whipple</locality><name>Fort Whipple Regimental Library</name><type>Garr</type><fd>1868</fd><em></em><ml>1875</ml><ce></ce><de>1875</de><sz>328</sz><ld>1875</ld><vs>328</vs></library>
+<library><plus>4823</plus><mcmullen>34</mcmullen><state>AZ</state><locality>St. Joseph</locality><name>Muddy Agricultural and Gardeners' Club</name><type>Agri socl</type><fd>1864</fd><em>1867</em><ml>1867</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7820</plus><mcmullen>33</mcmullen><state>AZ</state><locality>Tucson</locality><name>Territorial Library</name><type>Terr</type><fd>1864</fd><em></em><ml>1884</ml><ce></ce><de>1875</de><sz>2600</sz><ld>1875</ld><vs>2600</vs></library>
+</libraryList>

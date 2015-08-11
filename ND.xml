@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<libraryList>
+<library><plus>7811</plus><mcmullen>4909</mcmullen><state>ND</state><locality>Bismark</locality><name>Territory Library</name><type>Terr</type><fd>1865</fd><em></em><ml>1884</ml><ce></ce><de></de><sz>0</sz><ld></ld><vs>0</vs></library>
+<library><plus>7704</plus><mcmullen>12662</mcmullen><state>ND</state><locality>Fort Totten</locality><name>Fort Totten Post Library</name><type>Garr</type><fd></fd><em>1870</em><ml>1875</ml><ce></ce><de>1870</de><sz>200</sz><ld>1870</ld><vs>200</vs></library>
+<library><plus>7702</plus><mcmullen>12660</mcmullen><state>ND</state><locality>Ft Badford</locality><name>Fort Badford</name><type>Garr</type><fd></fd><em>1868</em><ml>1875</ml><ce></ce><de>1870</de><sz>73</sz><ld>1875</ld><vs>366</vs></library>
+<library><plus>7703</plus><mcmullen>12661</mcmullen><state>ND</state><locality>Ft. Stevenson</locality><name>Fort Stevenson</name><type>Garr</type><fd></fd><em>1870</em><ml>1875</ml><ce></ce><de>1870</de><sz>850</sz><ld>1875</ld><vs>850</vs></library>
+</libraryList>
